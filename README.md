@@ -81,7 +81,6 @@
 <span class="tag">&lt;meta</span> <span class="attr">name</span>=<span class="value">"description"</span> <span class="attr">content</span>=<span class="value">"Актуальні робочі дзеркала Stawki Bet 2026. Перевірені адреси для швидкого доступу до Stawkibet з України та інших країн"</span><span class="tag">&gt;</span>
 
 <span class="tag">&lt;meta</span> <span class="attr">name</span>=<span class="value">"keywords"</span> <span class="attr">content</span>=<span class="value">"Stawki Bet, Stawkibet, Ставкі бет, Ставки бет, Stawki Bet дзеркало, Stawkibet дзеркало, робочі дзеркала Stawki Bet, доступ Stawkibet, альтернативні домени Ставкі бет, Stawki Bet Україна, Stawkibet 2026, mirror Stawki Bet"</span><span class="tag">&gt;</span>
-
 <span class="tag">&lt;meta</span> <span class="attr">name</span>=<span class="value">"author"</span> <span class="attr">content</span>=<span class="value">"Stawki Bet Mirror Index"</span><span class="tag">&gt;</span>
 </pre>
 
